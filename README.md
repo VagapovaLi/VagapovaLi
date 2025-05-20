@@ -35,4 +35,4 @@
 Вы можете связаться со мной по следующим каналам:
 
 - 📧 [Email](vagapovaliana@mail.ru)
-- 💼 [Резюме][hh.ru]([https://hh.kz](https://hh.ru/resume/f13cabbaff077e5f070039ed1f6d5961776b49)) 
+- 💼 [Резюме]([hh.ru](https://hh.ru/resume/f13cabbaff077e5f070039ed1f6d5961776b49)) 
