@@ -11,9 +11,9 @@
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm  
 
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  
-![Selenium](https://simpleicons.org/icons/selenium.svg) Selenium  
-![Pytest](https://simpleicons.org/icons/pytest.svg) Pytest  
-![PostgreSQL](https://simpleicons.org/icons/postgresql.svg) PostgreSQL 
+<img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="40" height="40"/> Selenium  
+<img src="https://simpleicons.org/icons/pytest.svg" alt="Pytest" width="40" height="40"/> Pytest  
+<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
 ![Git](https://img.icons8.com/color/48/000000/git.png) Git  
 ![GitLab](https://img.icons8.com/color/48/000000/gitlab.png) GitLab  
 ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub  
