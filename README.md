@@ -6,6 +6,7 @@
 
 **Мой технологический стек**
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm  
+
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  
 ![Selenium](https://img.icons8.com/color/48/000000/selenium.png) Selenium  
 ![Pytest](https://img.icons8.com/color/48/000000/pytest.png) Pytest  
