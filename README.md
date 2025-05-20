@@ -9,17 +9,17 @@
 
 
 <div>
-![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm  
-![Python](https://img.icons8.com/color/48/000000/python.png) Python  
-<img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="40" height="40"/> Selenium  
-<img src="https://simpleicons.org/icons/pytest.svg" alt="Pytest" width="40" height="40"/> Pytest  
-<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
-![Git](https://img.icons8.com/color/48/000000/git.png) Git  
-![GitLab](https://img.icons8.com/color/48/000000/gitlab.png) GitLab  
-![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub  
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  
-![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS 
-<div>
+    <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40"/> PyCharm &nbsp;
+    <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/> Python &nbsp;
+    <img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="40" height="40"/> Selenium &nbsp;
+    <img src="https://simpleicons.org/icons/pytest.svg" alt="Pytest" width="40" height="40"/> Pytest &nbsp;
+    <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> Git &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="40" height="40"/> GitLab &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/> GitHub &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/> HTML &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/> CSS
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
