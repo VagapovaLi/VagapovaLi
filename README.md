@@ -5,6 +5,9 @@
 Сейчас я делаю акцент на создании надежных автотестов для веб-приложений.
 
 **Мой технологический стек**
+
+
+
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm  
 
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  
