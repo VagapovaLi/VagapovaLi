@@ -8,8 +8,8 @@
 
 
 
+<div>
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm  
-
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  
 <img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="40" height="40"/> Selenium  
 <img src="https://simpleicons.org/icons/pytest.svg" alt="Pytest" width="40" height="40"/> Pytest  
@@ -19,6 +19,7 @@
 ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub  
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS 
+<div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
